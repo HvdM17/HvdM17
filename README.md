@@ -7,7 +7,6 @@
 
   <p>
     <a href="https://github.com/HvdM17"><img src="https://img.shields.io/badge/GitHub-HvdM17-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-    <img src="https://komarev.com/ghpvc/?username=HvdM17&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile views" />
   </p>
 
 </div>
